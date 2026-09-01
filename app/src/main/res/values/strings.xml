@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">JTM 铁路地图</string>
+    <string name="destination_map">地图</string>
+    <string name="destination_journeys">行程</string>
+    <string name="destination_passport">护照</string>
+    <string name="status_completed">已乘坐</string>
+    <string name="status_upcoming">计划中</string>
+    <string name="action_mark_upcoming">改为计划中</string>
+    <string name="action_mark_completed">标记已乘坐</string>
+    <string name="map_title">铁路地图</string>
+    <string name="map_subtitle">东京核心铁路示意图</string>
+    <string name="action_reset_map">重置地图</string>
+    <string name="map_select_journey">点选行程，在地图上查看对应线路</string>
+    <string name="map_gesture_hint">双指缩放 · 单指拖动</string>
+    <string name="journeys_title">我的行程</string>
+    <string name="action_add_journey">添加行程</string>
+    <string name="search_label">搜索车站、线路或地区</string>
+    <string name="journeys_empty">没有找到匹配的行程</string>
+    <string name="add_journey_title">记录一段铁路旅程</string>
+    <string name="field_origin">出发站</string>
+    <string name="field_destination">到达站</string>
+    <string name="field_line">线路</string>
+    <string name="action_add">添加</string>
+    <string name="action_cancel">取消</string>
+    <string name="passport_title">铁路护照</string>
+    <string name="passport_hero_title">你的东亚铁路足迹</string>
+    <string name="passport_completion">完成度 %1$d%%</string>
+    <string name="metric_distance">已乘距离</string>
+    <string name="metric_distance_value">%1$.1f km</string>
+    <string name="metric_journeys">行程数量</string>
+    <string name="metric_time">铁路时光</string>
+    <string name="metric_time_value">%1$d 小时 %2$d 分</string>
+    <string name="metric_regions">到访地区</string>
+    <string name="completed_journeys_title">已盖章行程</string>
+</resources>
